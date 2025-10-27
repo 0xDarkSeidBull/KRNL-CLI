@@ -1,5 +1,3 @@
-Got it 👍 — here’s your guide **fully reformatted for GitHub**, with professional markdown structure, bold section titles, proper syntax highlighting for code, and clean spacing for readability.
-
 ---
 
 # 🚀 **KRNL Attestor + Real Estate DApp Full Setup Guide**
